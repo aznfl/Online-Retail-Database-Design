@@ -7,7 +7,7 @@ VALUES
 ('pro04', 'Gergaji Tangan Black+Decker 20 V', '1250000', '4'),
 ('pro05', 'Mesin Bor Cordless Stanley 12V', '300000', '3'),
 ('pro06', 'Armature 0030 Spare Part Traktor', '500000', '8'),
-('pro07', 'Keset Perekat Trasti Clean Room (1 Set 30 Lembar)', '115000', '13'),
+('pro07', 'Keset Perekat Trasti Clean Room (1 Set 30 Lembar)', '115000', '14'),
 ('pro08', 'Mesin Bor Tangan Black+Decker 3.6 V Cordless', '300000', '3'),
 ('pro09', 'Helm Las Blue Eagle 934P', '127000', '7'),
 ('pro10', 'Masker Pernapasan Trasti 4Ply Earloop', '60000', '15');
