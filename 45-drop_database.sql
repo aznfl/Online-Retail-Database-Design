@@ -1,0 +1,1 @@
+DROP DATABASE retail_tpa4;
